@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  font-family: roboto;
+}
+.heading {
+  color: #0f172a;
+}
+.success-container {
+  width: 500px;
+  border: 1px solid #64748b;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+.status-heading {
+  padding-left: 15px;
+}
+.success-icon-container {
+  display: flex;
+  color: #2dca73;
+}
+.description {
+  color: #475569;
+  padding-left: 12px;
+}
+.status-icon {
+  height: 50px;
+  width: 40px;
+  margin-top: 16px;
+}
+.close-icon {
+  align-self: flex-end;
+  margin-left: auto;
+  width: 40px;
+  height: 30px;
+}
+.error-icon-container {
+  display: flex;
+  color: #ff0b37;
+}
+.error-icon {
+  color: #ff0b37;
+  height: 50px;
+  width: 40px;
+  margin-top: 16px;
+}
+.warning-icon-container {
+  display: flex;
+  color: #ffb800;
+}
+.warning-icon {
+  color: #ffb800;
+  height: 50px;
+  width: 40px;
+  margin-top: 16px;
+}
+.info-icon-container {
+  display: flex;
+  color: #0f81e0;
+}
+.info-icon {
+  color: #0f81e0;
+  height: 50px;
+  width: 40px;
+  margin-top: 16px;
+}
