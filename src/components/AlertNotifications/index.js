@@ -1,10 +1,9 @@
 // Write your code here
 
 import {AiFillCheckCircle} from 'react-icons/ai'
-import {GrFormClose} from 'react-icons'
+import {GrFormClose} from 'react-icons/gr'
 import {RiErrorWarningFill} from 'react-icons/ri'
-import {MdWarning} from 'react-icons/md'
-import {MdInfo} from 'react-icons/md'
+import {MdWarning, MdInfo} from 'react-icons/md'
 
 import Notification from '../Notification'
 
